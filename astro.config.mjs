@@ -4,6 +4,7 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://astro.build/config
 export default defineConfig({
+  base: '/dps-portfolio',
   vite: {
     plugins: [tailwindcss()],
   },
