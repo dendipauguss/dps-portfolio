@@ -25,10 +25,8 @@ export const siteConfig = {
       name: "Sistem Bookstore",
       description:
         "Sistem manajemen bookstore berbasis JavaScript untuk pengelolaan inventori buku, transaksi penjualan, dan laporan. Saat ini berjalan secara lokal untuk pengembangan dan pengujian, belum di-publish online.",
-      skills: ["JavaScript", "Express.js", "React", "MySQL"],
-      link: "#",
       image: "/images/portofolio-bookstore.png",
-      status: "Pengembangan Lokal",
+      skills: ["JavaScript", "Express.js", "React", "MySQL"],
     },
   ],
   experience: [
