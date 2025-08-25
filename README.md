@@ -5,7 +5,7 @@
 Simple Portfolio with Astro and Tailwind CSS. Thanks for your DevPortfolio Template [**RyanFitzgerald**](https://github.com/RyanFitzgerald/)
 
 > **📬 Connect & Share!**  
-> [**LinkedIn**](https://www.linkedin.com/in/dendi-paugus-sukmaya)
+> <a href="https://www.linkedin.com/in/dendi-paugus-sukmaya" target="_blank">LinkedIn</a>
 
 ## Preview
 
