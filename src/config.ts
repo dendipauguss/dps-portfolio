@@ -12,21 +12,21 @@ export const siteConfig = {
   aboutMe:
     "Saya adalah lulusan baru dengan gelar Sarjana Teknik Informatika dari Universitas Majalengka. Saya memiliki ketertarikan untuk terus mengikuti perkembangan teknologi terbaru serta menerapkan prinsip-prinsip object-oriented dalam pengembangan perangkat lunak. Saya bercita-cita berkarier di bidang teknologi informasi, khususnya dalam pengembangan dan pemeliharaan aplikasi web. Saya menguasai teknologi pengembangan full-stack seperti Laravel, CodeIgniter, serta ekosistem JavaScript modern termasuk React.js, Express.js, dan Next.js. Kemampuan inti saya mencakup PHP, JavaScript, Node.js, dan arsitektur aplikasi web modern.",
   skills: ["Bootstrap", "PHP", "Codeigniter", "Javascript", "Node.js"],
-  imgProfile: "/images/img-profile.png",
+  imgProfile: "/images/img-profile.jpg",
   projects: [
     {
       name: "Sistem Informasi Penjaminan Mutu Internal Universitas - UMC",
       description:
         "Sistem penjaminan mutu akademik berbasis web untuk Universitas Muhammadiyah Cirebon. Dasbor administrator telah dikembangkan dan dikelola untuk mengelola audit mutu internal, pemantauan kinerja dosen, dan laporan akademik. Situs publik menampilkan informasi umum, sementara fitur-fitur utama dapat diakses melalui login admin dan user di lingkungan universitas yang sudah didaftarkan.",
       link: "https://mutu.umc.ac.id",
-      image: "./images/portofolio-sipeka.png",
+      image: "/images/portofolio-sipeka.png",
       skills: ["CodeIgniter", "MySQL", "Bootstrap", "jQuery", "JSON"],
     },
     {
       name: "Sistem Bookstore",
       description:
         "Sistem manajemen bookstore berbasis JavaScript untuk pengelolaan inventori buku, transaksi penjualan, dan laporan. Saat ini berjalan secara lokal untuk pengembangan dan pengujian, belum di-publish online.",
-      image: "./images/portofolio-bookstore.png",
+      image: "/images/portofolio-bookstore.png",
       skills: ["JavaScript", "Express.js", "React", "MySQL"],
     },
   ],
