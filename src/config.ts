@@ -19,14 +19,14 @@ export const siteConfig = {
       description:
         "Sistem penjaminan mutu akademik berbasis web untuk Universitas Muhammadiyah Cirebon. Dasbor administrator telah dikembangkan dan dikelola untuk mengelola audit mutu internal, pemantauan kinerja dosen, dan laporan akademik. Situs publik menampilkan informasi umum, sementara fitur-fitur utama dapat diakses melalui login admin dan user di lingkungan universitas yang sudah didaftarkan.",
       link: "https://mutu.umc.ac.id",
-      image: "/images/portofolio-sipeka.png",
+      image: "./images/portofolio-sipeka.png",
       skills: ["CodeIgniter", "MySQL", "Bootstrap", "jQuery", "JSON"],
     },
     {
       name: "Sistem Bookstore",
       description:
         "Sistem manajemen bookstore berbasis JavaScript untuk pengelolaan inventori buku, transaksi penjualan, dan laporan. Saat ini berjalan secara lokal untuk pengembangan dan pengujian, belum di-publish online.",
-      image: "/images/portofolio-bookstore.png",
+      image: "./images/portofolio-bookstore.png",
       skills: ["JavaScript", "Express.js", "React", "MySQL"],
     },
   ],
